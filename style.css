@@ -216,7 +216,7 @@
     height: 230px;
     width: 750px;
     background-color: rgb(255, 255, 255);
-    border-radius: 10px;
+    border-radius: 9px;
     position: relative;
     display: flex;
 }
